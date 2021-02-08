@@ -1,0 +1,7 @@
+.gris {
+  background-color: rgba(0, 0, 0, 0.199);
+}
+.botonEnviarMail:disabled {
+  opacity: 0.5;
+  background-color: black;
+}
